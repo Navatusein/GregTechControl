@@ -1,0 +1,47 @@
+{
+	variables_Machines_type_universal = "Универсальный",
+	variables_Machines_type_battery_buffer = "Хранилище батарей",
+	variables_Machines_type_power_station = "Power station",
+	variables_Machines_type_cleanroom = "Чистая комната",
+	
+	menu_button_file = "Файл",
+	contextMenu_file_button_open = "Открыть",
+	contextMenu_file_error_open = "Ошибка открытия файла",
+	contextMenu_file_error_void = "Ошибка файл сохранения пустой",
+	contextMenu_file_button_save = "Сохранить",
+	menu_button_tool = "Инструменты",
+	contextMenu_tool_button_methods = "Методы",
+	contextMenu_tool_button_sensor = "Информация с сенсора",
+	contextMenu_tool_button_test = "Тест",
+	menu_button_close = "Закрыть",
+
+	main_text_machine = "Машинки",
+	main_button_add = "Добавить",
+	main_button_config = "Настройки",
+	main_button_delete = "Удалить",
+	
+	info_text_info = "Информация о выбранной машинке",
+	info_text_name = "Название машинки:",
+	info_text_address = "Адрес машинки:",
+	info_text_type = "Тип машинки:",
+	info_text_has_work = "Состояние машинки:",
+	info_text_work = "Работает",
+	info_text_dont_work = "Не работает",
+	info_text_problems = "Количество поломок:",
+	info_text_time = "Время крафта:",
+	info_text_storedEu = "EU хранится:",
+	info_text_avarageEu = "Вход/Выход EU:",
+	info_text_efficiency = "Ефективность:",
+	
+	adding_text_name = "Добавление машинки",
+	adding_input_address = "Введите адрес",
+	adding_input_name = "Название машинки",
+	adding_button_confirm = "Подтвердить",
+	adding_error_input_name = "Ошибка ввода имени",
+	adding_error_input_address = "Ошибка ввода адреса",
+	adding_error_test_address = "Ошибка компонент с таким адресом отсутствует в системе или компонент с таким адресом уже добавлен",
+	
+	config_label_name = "Настройки"
+	
+	
+}
